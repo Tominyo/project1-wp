@@ -7,3 +7,6 @@
 
 #Configuration
 /wp-config.php
+
+#Securite
+/.htaccess
