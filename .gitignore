@@ -8,5 +8,5 @@
 #Configuration
 /wp-config.php
 
-#Securite
+#security
 .htaccess
